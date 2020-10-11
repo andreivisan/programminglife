@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+public/bundle.*
+package-lock.json
+yarn.lock
+.pytest_cache
+client/node_modules
+client/public/bundle.*
+client/package-lock.json
